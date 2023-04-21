@@ -1,4 +1,5 @@
-**Arrays**
+******Arrays******
+---
 
 Array is the linear data structure that stores the data in contigious memory locations. Array index starts from zero (0)
 
@@ -17,3 +18,7 @@ Array in javascript are object in which the indexes acts as keys.
 | Access        | Search        | Insertion     | Deletion      | Push          | Pop           |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | O(1)          | O(n)          | O(n)          | O(n)          | O(1)          | O(1)          |
+
+**Space Complexity**
+
+O(n)

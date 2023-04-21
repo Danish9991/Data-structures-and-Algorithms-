@@ -7,6 +7,4 @@ Array is the linear data structure that stores the data in contigious memory loc
 
 Array in javascript are object in which the indexes acts as keys.
 
-**See the implementation of arrays in index.js file**
-
-run node Arrays
+image.png

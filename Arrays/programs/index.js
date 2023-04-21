@@ -1,5 +1,7 @@
 /**
  * reverseAString1 is a function which returns the reverse of the string by using for loop
+ * Time Complexity - O(n)
+ * Space Complexity - O(n)
  * @param {*} str
  * @returns
  */
@@ -14,6 +16,8 @@ const reverseAString1 = (str) => {
 
 /**
  * reverseAString2 is a function which returns the reverse of the string by using inbuilt javascript function
+ * Time Complexity - O(1)
+ * Space Complexity - O(1)
  * @param {*} str
  * @returns
  */

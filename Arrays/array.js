@@ -11,6 +11,7 @@ class MyArray {
 
   /**
    * get method return the array element of given index
+   * Time Complexity - O(1)
    * @param {*} index
    */
 
@@ -20,6 +21,7 @@ class MyArray {
 
   /**
    * push method inserts the element in the last of array
+   * Time Complexity - O(1)
    * @param {*} element
    */
 
@@ -30,6 +32,7 @@ class MyArray {
 
   /**
    * pop method removes the last element of an array
+   * Time Complexity - O(1)
    */
 
   pop() {
@@ -39,6 +42,7 @@ class MyArray {
 
   /**
    * shift method removes the element at specific index and shifts the adjecent elements to left
+   * Time Complexity - O(n)
    * @param {*} index
    */
 
@@ -52,6 +56,7 @@ class MyArray {
 
   /**
    * shiftElement method shifts the element of an array to left
+   * Time Complexity - O(n)
    * @param {*} index
    */
 
@@ -65,6 +70,7 @@ class MyArray {
 
   /**
    * insert method inserts the element at specific location and shifts the remaining elements of array towards right
+   * Time Complexity - O(n)
    * @param {*} index
    * @param {*} element
    */

@@ -36,6 +36,7 @@ class MyArray {
     delete this.data[this.length - 1];
     this.length--;
   }
+
   /**
    * shift method removes the element at specific index and shifts the adjecent elements to left
    * @param {*} index
@@ -76,7 +77,6 @@ class MyArray {
     }
 
     for (let i = this.length; i > index; i--) {
-      //[10,20,  30,  40, 50]
       this.data[i] = this.data[i - 1];
     }
     this.data[index] = element;

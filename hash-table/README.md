@@ -1,11 +1,11 @@
-******Hash Tables******
+******Hash Table******
 ---
 
 Hash Table is a data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. Access of data becomes very fast
 
 ![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/hash-table/images/hash-table.png)
 
-visiual of collision in hash tables
+visiual representation of collision in hash tables
 
 ![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/hash-table/images/collision.png)
 
@@ -15,9 +15,9 @@ visiual of collision in hash tables
 
 **Time Complexity**
 
-| Access        | Search        | Insertion     | Deletion      | Push          | Pop           |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| O(1)          | O(n)          | O(n)          | O(n)          | O(1)          | O(1)          |
+| Access        | Search        | Insertion     | Deletion      | 
+|:-------------:|:-------------:|:-------------:|:-------------:|
+| O(1)          | O(1)          | O(1)          | O(1)          |
 
 **Space Complexity**
 

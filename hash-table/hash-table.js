@@ -74,7 +74,6 @@ class HashTable {
 }
 
 //instantiation
-
 const myHashTable = new HashTable(50);
 myHashTable.set("grapes", 100);
 myHashTable.set("apples", 12);

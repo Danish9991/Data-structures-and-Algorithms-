@@ -8,6 +8,7 @@ Hash Table is a data structure which stores data in an associative manner. In a 
 visiual representation of collision in hash tables, if the collisions happens, when the hash function generates the same index for more than one key, then the time complexity at that stage for the lookup will be O(n)
 
 ![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/hash-table/images/collision.png)
+---
 
 
 ****Complexities****

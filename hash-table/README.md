@@ -11,15 +11,24 @@ visiual representation of collision in hash tables, if the collisions happens, w
 ---
 
 
-****Complexities****
+******Complexities******
 ---
 
-**Time Complexity**
+****Time Complexity****
 
 | Access        | Search        | Insertion     | Deletion      | 
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | O(1)          | O(1)          | O(1)          | O(1)          |
 
-**Space Complexity**
+****Space Complexity****
 
 O(n)
+---
+
+****Merits and Demerits****
+
+| Merits               | Demerits            |
+|:-------------:       |   :-------------:   |
+| Fast Lookups         | Unordered           |
+| Fast Inserts         | Slow Key iteration  |
+| Flexible Keys        |                     |

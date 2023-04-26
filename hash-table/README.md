@@ -25,9 +25,9 @@ visiual representation of collision in hash tables, if the collisions happens, w
 O(n)
 ---
 
-****Merits and Demerits****
+******Merits and Demerits******
 
-| Merits               | Demerits            |
+| **Merits**           | **Demerits**        |
 |:-------------:       |   :-------------:   |
 | Fast Lookups         | Unordered           |
 | Fast Inserts         | Slow Key iteration  |

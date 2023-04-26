@@ -33,6 +33,6 @@ O(n)
 | Flexible Keys        |                     |
 ---
 
-**Key Points**
+******Key Points******
 - By using the Hash table we can optimize the nested loops i.e O(n^2) to O(n).
 - Good collison resolution needed in the hash tables.

@@ -27,8 +27,8 @@ O(n)
 
 ****Merits and Demerits****
 
-**| Merits               | Demerits            |
+| Merits               | Demerits            |
 |:-------------:       |   :-------------:   |
 | Fast Lookups         | Unordered           |
 | Fast Inserts         | Slow Key iteration  |
-| Flexible Keys        |                     |**
+| Flexible Keys        |                     |

@@ -21,7 +21,6 @@ visiual representation of collision in hash tables, if the collisions happens, w
 | O(1)          | O(1)          | O(1)          | O(1)          |
 
 ****Space Complexity****
-
 O(n)
 ---
 
@@ -32,3 +31,8 @@ O(n)
 | Fast Lookups         | Unordered           |
 | Fast Inserts         | Slow Key iteration  |
 | Flexible Keys        |                     |
+---
+
+**Key Points**
+- By using the Hash table we can optimize the nested loops i.e O(n^2) to O(n).
+- Good collison resolution needed in the hash tables.

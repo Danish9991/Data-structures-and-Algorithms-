@@ -6,3 +6,4 @@ A data structure is a particular way of organizing and storing data in a compute
 
 - [Arrays](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/array)
 - [Hash Table](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/hash-table)
+- - [Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/linked-list)

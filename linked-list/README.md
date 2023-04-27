@@ -11,13 +11,13 @@ Each element (commonly called nodes) contains two items: the data stored and a l
 ******Complexities******
 ---
 
-**Time Complexity**
+****Time Complexity****
 
 | Access        | Search        | Insertion     | Deletion      | 
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | O(n)          | O(n)          | O(1)          | O(1)          |
 
-**Space Complexity**
+****Space Complexity****
 
 O(n)
 

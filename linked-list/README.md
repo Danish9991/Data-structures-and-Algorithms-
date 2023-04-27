@@ -18,5 +18,6 @@ Each element (commonly called nodes) contains two items: the data stored and a l
 | O(n)          | O(n)          | O(1)          | O(1)          |
 
 **Space Complexity**
+
 O(n)
 

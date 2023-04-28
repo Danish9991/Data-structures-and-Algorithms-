@@ -3,7 +3,7 @@
  * e.g push, pop, get, insert, shift
  */
 
-class MyArray {
+export class MyArray {
   constructor() {
     this.data = {};
     this.length = 0;
@@ -90,14 +90,3 @@ class MyArray {
   }
 }
 
-//instantiation
-const newArray = new MyArray();
-newArray.push(10);
-newArray.push(20);
-newArray.push(30);
-newArray.push(40);
-console.log("get =>", newArray.get(2));
-newArray.insert(2, 25);
-newArray.shift(2);
-newArray.pop();
-console.log(newArray);

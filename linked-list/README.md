@@ -24,7 +24,7 @@ O(n)
 
 ******Difference between singly and doubly linked lists:******
 
-****Singly Linked List: ****
+****Singly Linked List:****
  - Each node stores a reference to the next node in the sequence
  - Traversal can only be done in one direction (forward)
  - Deleting a node requires updating the reference of the previous node to point to the next node

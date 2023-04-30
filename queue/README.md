@@ -4,3 +4,16 @@ A queue is a data structure that follows the First-In-First-Out (FIFO) principle
 
 ![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/queue/images/queue.jpeg)
 
+******Complexities******
+---
+
+****Time Complexity****
+
+| Access        | Search        | Insertion     | Deletion      | 
+|:-------------:|:-------------:|:-------------:|:-------------:|
+| O(n)          | O(n)          | O(1)          | O(1)          |
+
+****Space Complexity****
+
+O(n)
+

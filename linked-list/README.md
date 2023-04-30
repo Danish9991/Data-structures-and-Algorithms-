@@ -22,7 +22,7 @@ Each element (commonly called nodes) contains two items: the data stored and a l
 O(n)
 ---
 
-******Difference between singly and doubly linked lists:******
+# Difference between singly and doubly linked lists
 
 ****Singly Linked List:****
  - Each node stores a reference to the next node in the sequence

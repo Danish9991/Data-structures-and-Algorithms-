@@ -111,6 +111,24 @@ export class SinglyLinkedList {
   }
 
   /**
+   * reverse method reverses the linked list
+   * Time Complexity O(n)
+   */
+
+  reverse(){
+    let first = this.head;
+    let second = first.next;
+    while(second){
+      const temp = second.next;
+      second.next = first;
+      first = second;
+      second = temp;
+    }
+    this.head.next = null;
+    this.head = first;
+  }
+
+  /**
    * traverseToIndex method traverse to linked list untill index - 1 and returns that node
    * Time complexity O(n)
    * @param {*} index

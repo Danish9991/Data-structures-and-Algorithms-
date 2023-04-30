@@ -8,6 +8,8 @@ myLinkedList.append(20);
 myLinkedList.prepend(5);
 myLinkedList.insert(6, 17);
 myLinkedList.remove(0);
+console.log(myLinkedList.printList());
+myLinkedList.reverse();
 console.log(myLinkedList);
 console.log(myLinkedList.printList());
 

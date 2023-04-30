@@ -1,4 +1,4 @@
-******Linked List******
+# Linked List
 ---
 
 A linked list is a linear data structure similar to an array. However, unlike arrays, elements are not stored in a particular memory location or index. Rather each element is a separate object that contains a pointer or a link to the next object in that list.
@@ -22,7 +22,7 @@ Each element (commonly called nodes) contains two items: the data stored and a l
 O(n)
 ---
 
-# Difference between singly and doubly linked lists
+******Difference between singly and doubly linked lists******
 
 ****Singly Linked List:****
  - Each node stores a reference to the next node in the sequence

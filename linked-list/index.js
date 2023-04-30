@@ -1,4 +1,4 @@
-import { SinglyLinkedList } from './singlyLinked.list.js'
+import { SinglyLinkedList } from './singlyLinked-list.js'
 
 const myLinkedList = new SinglyLinkedList(10);
 myLinkedList.append(15);

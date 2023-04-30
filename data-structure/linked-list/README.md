@@ -4,7 +4,7 @@ A linked list is a linear data structure similar to an array. However, unlike ar
 
 Each element (commonly called nodes) contains two items: the data stored and a link to the next node. The data can be any valid data type.
 
-![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/linked-list/images/linked-list.png)
+![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/data-structure/linked-list/images/linked-list.png)
 ---
 
 ******Complexities******

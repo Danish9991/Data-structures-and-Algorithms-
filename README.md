@@ -10,14 +10,14 @@ Linear data structures are structures where data elements are arranged sequentia
 
 Non-linear data structures are structures where data elements are not arranged sequentially or linearly. Elements can be connected to multiple other elements, forming a branching or hierarchical structure. Examples of non-linear data structures include trees, graphs, and heaps.
 
-- [Arrays](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/array)
-- [Hash Table](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/hash-table)
-- [Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/linked-list)
-    - [Singly Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/linked-list/singlyLinked-list.js)
-    - [Doubly Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/linked-list/doublyLinked-list.js)
+- [Arrays](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/data-structure/array)
+- [Hash Table](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/data-structure/hash-table)
+- [Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/data-structure/linked-list)
+    - [Singly Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/data-structure/linked-list/singlyLinked-list.js)
+    - [Doubly Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/data-structure/linked-list/doublyLinked-list.js)
 
-- [Stack](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/stack)
-- [Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/queue)
+- [Stack](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/data-structure/stack)
+- [Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/data-structure/queue)
 
 
    
@@ -38,7 +38,7 @@ Non-linear data structures are structures where data elements are not arranged s
 *Big O notation* is used to classify algorithms according to how their running time or space requirements grow as the input size grows.
 On the chart below you may find most common orders of growth of algorithms specified in Big O notation.
 
-![Big O graphs](./assets/big-o-graph.png)
+![Big O graphs](./data-structure/assets/big-o-graph.png)
 
 Source: [Big O Cheat Sheet](http://bigocheatsheet.com/).
 

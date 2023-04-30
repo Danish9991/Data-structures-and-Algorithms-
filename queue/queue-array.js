@@ -1,44 +1,71 @@
-class Node {
-    constructor(value){
-      this.value = value;
-      this.next = null;
-    }
-}
+/**
+ * QueueUsingArray class implements the opertions of queue using array
+ */
+export class QueueUsingArray {
+  constructor() {
+    this.array = [];
+  }
 
-class QueueUsingLinkedList {
-    constructor(){
-        this.front = null;
-        this.back = null;
-        this.length = 0;
-    }
+  /**
+   * enQueue method push the element
+   * Time Complexity O(1)
+   * @param {*} value
+   */
 
-    peek(){
-        return this.front.value
-    }
+  enQueue(value) {
+    this.array.push(value);
+  }
 
-    enQueue(value){
-       const newNode = new Node(value)
-       if(this.length === 0){
-        this.front = newNode;
-        this.back = newNode;
-       }else{
-        const holdinPointer = this.back;
-        this.back = newNode;
-        this.back.next = holdinPointer;
-       }
-       this.length++;
-       return this;
-       
+  /**
+   * deQueue removes the element from array at the beginning
+   * Time Complexity O(1)
+   * @returns
+   */
+
+  deQueue() {
+    if (this.isEmpty()) {
+      return "underflow";
     }
 
-    deQueue(){
-        if(this.front === null){
-            return null
-        }
+    return this.array.shift();
+  }
 
-        const holdinPointer = this.front;
-        this.front = this.front.next;
-        this.length--;
-        return this;
-    }
+  /**
+   * peek method returns the first element of an array
+   * Time Complexity 0(1)
+   * @returns
+   */
+
+  peek() {
+    return this.array[0];
+  }
+
+  /**
+   * size method return the size of the queue
+   * Time Complexity O(1)
+   * @returns
+   */
+
+  size() {
+    return this.array.length;
+  }
+
+  /**
+   * isEmpty method return true, flase depends upon the length of the queue
+   * Time Complexity O(1)
+   * @returns
+   */
+
+  isEmpty() {
+    return this.array.length === 0;
+  }
+
+  /**
+   * clear method clears the queue
+   * Time Complexity O(1)
+   */
+
+  clear() {
+    this.array = [];
+  }
 }

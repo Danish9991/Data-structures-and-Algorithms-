@@ -21,3 +21,5 @@ doublyList.insert(3, 15);
 doublyList.remove(3);
 console.log(doublyList);
 console.log(doublyList.printList());
+doublyList.reverse();
+console.log(doublyList.printList());

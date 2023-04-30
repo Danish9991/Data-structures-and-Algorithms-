@@ -118,6 +118,23 @@ export class DoublyLinkedList {
   }
 
   /**
+   * reverse method reverses the linked list
+   * Time Complexity O(n)
+   */
+
+  reverse(){
+    let currentNode = this.head;
+    let temp;
+    while(currentNode){
+         temp = currentNode.prev;
+        currentNode.prev = currentNode.next;
+        currentNode.next = temp;
+        currentNode = currentNode.prev
+    }
+    this.head = temp.prev;
+  }
+
+  /**
    * traverseToIndex method traverse to linked list untill index - 1 and returns that node
    * Time complexity O(n)
    * @param {*} index

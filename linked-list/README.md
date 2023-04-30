@@ -33,5 +33,17 @@ O(n)
  - Traversal can be done in both directions (forward and backward)
  - Deleting a node can be done more efficiently by updating the references of both the previous and next nodes to point to each other.
 
+<hr>
+
+******Merits and Demerits******
+
+| **Merits**           | **Demerits**        |
+|:-------------:       |   :-------------:   |
+| Fast insertion       | Slow lookups        |
+| Fast deletion        | More Memory         |
+| ordered              |                     |
+| Flexible Keys        |                     |
+---
+
 
 

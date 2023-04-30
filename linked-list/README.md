@@ -20,4 +20,19 @@ Each element (commonly called nodes) contains two items: the data stored and a l
 ****Space Complexity****
 
 O(n)
+---
+
+******Difference between singly and doubly linked lists:******
+
+****Singly Linked List: ****
+ - Each node stores a reference to the next node in the sequence
+ - Traversal can only be done in one direction (forward)
+ - Deleting a node requires updating the reference of the previous node to point to the next node
+
+****Doubly Linked List:****
+ - Each node stores a reference to both the next and the previous nodes in the sequence
+ - Traversal can be done in both directions (forward and backward)
+ - Deleting a node can be done more efficiently by updating the references of both the previous and next nodes to point to each other.
+
+
 

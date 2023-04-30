@@ -122,14 +122,14 @@ export class DoublyLinkedList {
    * Time Complexity O(n)
    */
 
-  reverse(){
+  reverse() {
     let currentNode = this.head;
     let temp;
-    while(currentNode){
-         temp = currentNode.prev;
-        currentNode.prev = currentNode.next;
-        currentNode.next = temp;
-        currentNode = currentNode.prev
+    while (currentNode) {
+      temp = currentNode.prev;
+      currentNode.prev = currentNode.next;
+      currentNode.next = temp;
+      currentNode = currentNode.prev;
     }
     this.head = temp.prev;
   }

@@ -16,6 +16,9 @@ Non-linear data structures are structures where data elements are not arranged s
     - [Singly Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/linked-list/singlyLinked-list.js)
     - [Doubly Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/linked-list/doublyLinked-list.js)
 
+- [Stack](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/stack)
+- [Linked List](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/queue)
+
 
    
 

@@ -19,8 +19,9 @@ Each element (commonly called nodes) contains two items: the data stored and a l
 ****Space Complexity****
 
 O(n)
----
+
 <h2>Difference between singly and doubly linked lists</h2>
+
 
 ****Singly Linked List:****
  - Each node stores a reference to the next node in the sequence

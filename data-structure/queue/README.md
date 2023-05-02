@@ -17,3 +17,13 @@ A queue is a data structure that follows the First-In-First-Out (FIFO) principle
 
 O(n)
 
+<hr>
+
+******Merits and Demerits******
+
+| **Merits**           | **Demerits**        |
+|:-------------:       |   :-------------:   |
+| Fast Operations      | Slow Lookup         |
+| Fast Peek            |                     |
+| Ordered              |                     |
+---

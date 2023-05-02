@@ -16,3 +16,14 @@ A stack is a data structure that follows the Last-In-First-Out (LIFO) principle.
 ****Space Complexity****
 
 O(n)
+
+<hr>
+
+******Merits and Demerits******
+
+| **Merits**           | **Demerits**        |
+|:-------------:       |   :-------------:   |
+| Fast Operations      | Slow Lookup         |
+| Fast Peek            |                     |
+| Ordered              |                     |
+---

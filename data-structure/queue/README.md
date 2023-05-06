@@ -23,7 +23,7 @@ O(n)
 
 | **Merits**           | **Demerits**        |
 |:-------------:       |   :-------------:   |
-| Fast Operations      | Slow Lookup         |
+| Fast Operations      |   Slow Lookup       |
 | Fast Peek            |                     |
 | Ordered              |                     |
 ---

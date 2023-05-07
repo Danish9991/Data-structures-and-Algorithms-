@@ -40,6 +40,7 @@ A balanced binary tree is a binary tree where the difference in height between t
 
 Here's an example of a balanced binary tree:
 
+
         4
       /   \
      2     6

@@ -27,8 +27,11 @@ An adjacency list represents the adjacency information for each vertex by mainta
 Example of an adjacency list for an undirected graph:
 
 A: [B, C]
+
 B: [A, C, D]
+
 C: [A, B, D]
+
 D: [B, C]
 
 In this example, the adjacency list representation shows the neighboring vertices for each vertex. For instance, vertex A is adjacent to vertices B and C.

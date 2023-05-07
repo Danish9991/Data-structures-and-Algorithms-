@@ -25,3 +25,11 @@ Here are some key terms associated with trees:
 Trees have various applications in computer science, such as representing hierarchical data structures (e.g., file systems, organization structures), implementing search algorithms (e.g., binary search trees), organizing data for efficient retrieval (e.g., B-trees), and more.
 
 There are different types of trees, including binary trees, binary search trees, AVL trees, red-black trees, B-trees, and many others. Each type has specific properties and is suitable for different use cases and operations.
+
+# Binary search tree
+
+A binary search tree (BST) is a type of binary tree that satisfies the binary search property. It is an ordered or sorted binary tree data structure where each node has a key or value associated with it, and the keys of all nodes in the left subtree are less than the key of the current node, while the keys of all nodes in the right subtree are greater than the key of the current node.
+
+The binary search property allows for efficient searching, insertion, and deletion operations. It enables us to quickly find a specific key or perform range-based queries.
+
+![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/data-structure/tree/images/binary-search-tree.jpeg)

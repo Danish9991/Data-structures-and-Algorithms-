@@ -11,8 +11,7 @@ An adjacency matrix is a two-dimensional matrix where the rows and columns repre
 
 Example of an adjacency matrix for an undirected graph:
 
-     | A | B | C | D |
-     
+  -- | A | B | C | D |
   ---------------------
 
   A  | 0 | 1 | 1 | 0 |

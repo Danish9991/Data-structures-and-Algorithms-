@@ -32,4 +32,4 @@ A binary search tree (BST) is a type of binary tree that satisfies the binary se
 
 The binary search property allows for efficient searching, insertion, and deletion operations. It enables us to quickly find a specific key or perform range-based queries.
 
-![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/data-structure/tree/images/binary-search-tree.jpeg)
+![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/data-structure/tree/images/binary-search-tree.jpg)

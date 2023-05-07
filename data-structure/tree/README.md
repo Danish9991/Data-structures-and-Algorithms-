@@ -40,14 +40,12 @@ A balanced binary tree is a binary tree where the difference in height between t
 
 Here's an example of a balanced binary tree:
 
-
-        4
-      /   \
-     2     6
-    / \   / \
-   1   3 5   7
-
-
+          4
+        /    \
+      2        6
+     /  \    /   \
+    1    3  5     7
+       
 In this example, the height of the left and right subtrees of each node differs by at most 1. The height of the entire tree is 2.
 
 On the other hand, here's an example of an unbalanced binary tree:

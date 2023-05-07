@@ -75,3 +75,11 @@ Balanced binary trees are desirable because they guarantee optimal time complexi
 ****Space Complexity****
 
 O(n)
+
+# Merits and Demerits
+
+| **Merits**           | **Demerits**        |
+|:-------------:       |   :-------------:   |
+| Better than O(n)     |   no O(1) operation |
+| Flexible size        |                     |
+| Ordered              |                     |

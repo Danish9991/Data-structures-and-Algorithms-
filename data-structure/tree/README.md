@@ -33,3 +33,44 @@ A binary search tree (BST) is a type of binary tree that satisfies the binary se
 The binary search property allows for efficient searching, insertion, and deletion operations. It enables us to quickly find a specific key or perform range-based queries.
 
 ![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/data-structure/tree/images/binary-search-tree.jpg)
+
+# Balanced vs Unbalanced Binary tree
+
+A balanced binary tree is a binary tree where the difference in height between the left and right subtrees of any node is at most 1. A binary tree that is not balanced is called an unbalanced binary tree.
+
+Here's an example of a balanced binary tree:
+        4
+      /   \
+     2     6
+    / \   / \
+   1   3 5   7
+
+In this example, the height of the left and right subtrees of each node differs by at most 1. The height of the entire tree is 2.
+
+On the other hand, here's an example of an unbalanced binary tree:
+
+        4
+         \
+          6
+           \
+            8
+             \
+              10
+
+In this example, the left subtree of the root node has a height of 0, while the right subtree has a height of 4. This tree is unbalanced, which can result in slower search, insertion, and deletion operations in comparison to a balanced tree.
+
+Balanced binary trees are desirable because they guarantee optimal time complexity for search, insertion, and deletion operations, while unbalanced binary trees can lead to worst-case time complexity of O(n) for these operations.
+
+
+# Complexities
+---
+
+****Time Complexity****
+
+| Access        | Search        | Insertion     | Deletion      | 
+|:-------------:|:-------------:|:-------------:|:-------------:|
+| O(log(n))     | O(log(n))     | O(log(n))     | O(log(n))     |
+
+****Space Complexity****
+
+O(n)

@@ -3,7 +3,7 @@
 A graph is a data structure that consists of a set of vertices (also known as nodes) and a set of edges that connect these vertices. It is a fundamental data structure used to represent relationships between different entities. Graphs are widely used in various domains, including computer science, social networks, transportation networks, and more.
 
 
-![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/data-structure/graph/images/graph.jpeg)
+![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/data-structure/graphs/images/graph.jpeg)
 
 <h2>Adjacency Matrix: </h2>
 

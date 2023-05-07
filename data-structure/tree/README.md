@@ -20,6 +20,8 @@ Here are some key terms associated with trees:
 
 - Height: The height of a tree is the maximum depth of any node in the tree. In other words, it is the length of the longest path from the root to a leaf node.
 
-- Trees have various applications in computer science, such as representing hierarchical data structures (e.g., file systems, organization structures), implementing search algorithms (e.g., binary search trees), organizing data for efficient retrieval (e.g., B-trees), and more.
+![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/data-structure/tree/images/tree.jpeg)
 
-- There are different types of trees, including binary trees, binary search trees, AVL trees, red-black trees, B-trees, and many others. Each type has specific properties and is suitable for different use cases and operations.
+Trees have various applications in computer science, such as representing hierarchical data structures (e.g., file systems, organization structures), implementing search algorithms (e.g., binary search trees), organizing data for efficient retrieval (e.g., B-trees), and more.
+
+There are different types of trees, including binary trees, binary search trees, AVL trees, red-black trees, B-trees, and many others. Each type has specific properties and is suitable for different use cases and operations.

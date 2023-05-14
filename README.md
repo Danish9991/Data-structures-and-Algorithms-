@@ -23,12 +23,12 @@ Non-linear data structures are structures where data elements are not arranged s
 
 # Algorithms
 An algorithm is an unambiguous specification of how to solve a class of problems. It is a set of rules that precisely define a sequence of operations.
-- [Sorting](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/array)
-    - [Bubble sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/bubble-sort)
-    - [Selection sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/selection-sort)
-    - [Insertion sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/insertion-sort)
-    - [Merge sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/merge-sort)
-    - [Qucik sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/qucik-sort)
+- [Sorting](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting)
+    - [Bubble sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/bubble-sort)
+    - [Selection sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/selection-sort)
+    - [Insertion sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/insertion-sort)
+    - [Merge sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/merge-sort)
+    - [Qucik sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/qucik-sort)
 
 
 

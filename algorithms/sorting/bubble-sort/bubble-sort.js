@@ -13,7 +13,7 @@ export class BubbleSort {
     }
 
     for (let i = 0; i < this.arr.length; i++) {
-      for (let j = 0; j < this.arr.length - 1; j++) {
+      for (let j = 0; j < this.arr.length - i; j++) {
         if (this.arr[j] > this.arr[j + 1]) {
           let temp = this.arr[j];
           this.arr[j] = this.arr[j + 1];

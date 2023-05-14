@@ -7,6 +7,13 @@ export class BubbleSort {
     this.arr = array;
   }
 
+  /**
+   * sort method returns the sorted list
+   * Time-Complexity 0(n^2)
+   * Space-Complexity O(1)
+   * @returns
+   */
+
   sort() {
     if (this.arr.length < 2) {
       return this.arr;

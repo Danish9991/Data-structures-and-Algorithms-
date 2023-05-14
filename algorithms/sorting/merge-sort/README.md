@@ -13,4 +13,4 @@ A recursive merge sort algorithm used to sort an array of 7 integer values. Thes
 
 | Best        | Average       | Worst         | Memory        | Stable   | 
 |:-----------:|:-------------:|:-------------:|:-------------:|:---------|
-| O(log(n))   | O(log(n))     | O(log(n))     | O(n)          |yes       |
+| O(n log(n)) | O(n log(n))   | O(n log(n))   | O(n)          |yes       |

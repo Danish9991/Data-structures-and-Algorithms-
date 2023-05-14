@@ -28,7 +28,7 @@ An algorithm is an unambiguous specification of how to solve a class of problems
     - [Selection sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/selection-sort)
     - [Insertion sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/insertion-sort)
     - [Merge sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/merge-sort)
-    - [Qucik sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/qucik-sort)
+    - [Qucik sort](https://github.com/Danish9991/Data-structures-and-Algorithms-/tree/main/algorithms/sorting/quick-sort)
 
 
 

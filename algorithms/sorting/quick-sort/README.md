@@ -28,7 +28,7 @@ Both merge sort and quick sort are efficient sorting algorithms based on the div
 
 <h3>Quick Sort:</h3> Quick sort relies on a chosen pivot element, which can significantly affect the algorithm's performance. Common pivot selection methods include choosing the first, last, or middle element, or using more advanced techniques like the median-of-three.
 
-<h2>Performance:**</h2>
+<h2>Performance:</h2>
 
 <h2>Time Complexity:</h2>
 

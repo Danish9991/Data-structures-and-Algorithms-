@@ -6,3 +6,5 @@ Breadth-First Search (BFS) is an algorithm used to traverse or search through a 
 - BFS guarantees that it will find the shortest path (fewest number of edges) between the starting vertex and any other reachable vertex.
 - It is commonly used to find the shortest path, shortest distance, or to explore all vertices in a graph.
 - BFS can be implemented iteratively or recursively.
+
+![Alt text](https://github.com/Danish9991/Data-structures-and-Algorithms-/blob/main/algorithms/seacrhing/BFS/images/bfs.gif)

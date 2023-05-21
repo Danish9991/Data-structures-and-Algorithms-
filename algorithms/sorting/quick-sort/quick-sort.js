@@ -1,3 +1,6 @@
+/**
+ * MergeSort class performs sorting of array through Merge sort technique
+*/
 export class QuickSort {
   sort(array) {
     // Base case: return if the array has only one element or is empty
